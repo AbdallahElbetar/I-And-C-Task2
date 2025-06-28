@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467011816480",
+    "project_id": "help-faq-app",
+    "storage_bucket": "help-faq-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467011816480:android:d8cab06746daed8347c045",
+        "android_client_info": {
+          "package_name": "com.example.i_and_c_task2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkdPud13D9VQvj5xHE7iTizrWo-fdrow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
