@@ -2,6 +2,12 @@
 
 This is a Flutter task submission for Ideas and Concepts.
 
+## 🔧 Tech Stack
+- Flutter
+- GetX
+- Firebase Firestore
+
+
 ## 📸 Screenshots
 
 ### 🟦 Customer Service Screen
